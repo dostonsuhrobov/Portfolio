@@ -73,6 +73,21 @@ body {
     width: 100%;
 }
 
+/* ----------------------------- service section --------------------------- */
+
+#services {
+    padding: 80px 0;
+}
+
+.service-img{
+    width: 400px;
+    margin-top: 80px;
+
+}
+
+.image_file{
+    width: 350px;
+}
 
 
 
